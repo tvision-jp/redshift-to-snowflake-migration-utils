@@ -1,0 +1,3 @@
+table_or_view, where(optional)
+your_table_name1, where_condition_if_you_need
+your_table_name2, where_condition_if_you_need

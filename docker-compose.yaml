@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  redshift2snowflake:
+    build: .
+    container_name: migration-tools
+    volumes:
+      - ./:/code
+    env_file: 
+      - .env
+    tty: true
+    stdin_open: true
+    platform: linux/x86_64

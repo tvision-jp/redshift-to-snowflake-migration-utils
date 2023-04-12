@@ -1,0 +1,2 @@
+your_view_name1
+your_view_name2

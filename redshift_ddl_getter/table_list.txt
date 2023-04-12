@@ -1,0 +1,2 @@
+your_table_name1
+your_table_name2
